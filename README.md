@@ -6,3 +6,4 @@
 
 Susumu Ishihara
 
+もう一度サーバ上で編集したよ
